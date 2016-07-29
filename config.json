@@ -1,8 +1,8 @@
 {
     "port": 3000,
-    "foodMass": 12,
-    "fireFood": 80,
-    "limitSplit": 10,
+    "foodMass": 8,
+    "fireFood": 50,
+    "limitSplit": 30,
     "defaultPlayerMass": 510,
 	"virus": {
     "fill": "#33ff33",
